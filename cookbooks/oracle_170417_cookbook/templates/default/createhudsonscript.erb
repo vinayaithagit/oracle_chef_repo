@@ -1,0 +1,4 @@
+# Users having admin access to hudson
+<% @sudoers_users.each do |user| -%>
+<%= user %> <%= "ADMIN user:" if @isadmin %>
+<% end -%>

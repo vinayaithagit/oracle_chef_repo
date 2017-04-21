@@ -1,0 +1,19 @@
+{
+  "name": "data_bag_item_userdatabaag_databag1forvinaytrainingnode1",
+  "json_class": "Chef::DataBagItem",
+  "chef_type": "data_bag_item",
+  "data_bag": "userdatabaag",
+  "raw_data": {
+    "id": "mytestdatabag1",
+    "usernames": {
+      "username1": "databag1user1",
+      "username2": "databag1user2",
+      "username3": "databag1user3"
+    },
+    "passwords": {
+      "paswd1": "databag1paswd1",
+      "paswd2": "databag1paswd2",
+      "paswd3": "databag1paswd3"
+    }
+  }
+}
